@@ -10,8 +10,6 @@ I’m a student at Troy University and a passionate software engineer. I love pr
 
 Here, you’ll find a collection of my contributions and activities. Feel free to explore, contribute, or drop a message if you have any questions or feedback. Let’s connect and make a difference together!
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
 Skills: JAVA / SPRING BOOT / C++ / JS / NODE / SQL / HTML / CSS
 
 - 🔭 I’m currently working on VNFITE Holdings 
