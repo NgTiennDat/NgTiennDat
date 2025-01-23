@@ -13,7 +13,7 @@ Skills:
 
 
 - 🔭 I’m currently working on VNFITE
-- 🌱 I’m currently learning AWS, Advanced Spring boot, Design pattern, Data Structure and Algorithm  
+- 🌱 Try learning AWS, Advanced Spring boot, Design pattern, Data Structure & Algorithm  
 - 👯 I’m looking to collaborate on Open-source projects, Innovative software solutions, Community tech events
 - 🤔 I’m looking for help with Solution architect
 - 💬 Ask me about Software development, Programming languages  
