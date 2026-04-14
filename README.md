@@ -3,7 +3,7 @@
 
 Software Developer at LG CNS Vietnam Build Centre.
 Focused on building scalable backend systems with clean, high-quality code.
-I enjoy programming, continuous learning, and sharing knowledge.
+Experienced in distributed systems, high throughput batch processing (15.5M records).
 
 ### 🛠 Tech Stack
 
