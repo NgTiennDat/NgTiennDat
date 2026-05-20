@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Nguyen Tien Dat  
 **Backend Developer | Java & Spring**
 
-Software Developer at LG CNS Vietnam Build Centre.
+Software Developer at Viettel.
 Focused on building scalable backend systems with clean, high-quality code.
 Experienced in distributed systems, high throughput batch processing (15.5M records).
 
